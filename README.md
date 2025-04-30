@@ -2,7 +2,7 @@
 WIPRO ASSIGNMENTS AND TASKS
 # Folder Structure
 ```plaintext
-2141004162-main/
+2141004162/
 |   |-- CA-N/
 |   |   |-- ASSIGNMENTS/
 |   |   |   |-- 2141004162_CA-N_ASSIGNMENT-1.pdf
